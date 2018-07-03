@@ -1,5 +1,5 @@
 package com.hc.demo1;
-
+//c0
 public @interface Aaa {
 	//加上了默认值
 	public Class<?> name() default int.class;
